@@ -28194,5 +28194,12 @@
     "author": "Marten Tietje",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Create notes from inline text with tag-driven templates. Add inline fields, get autocomplete suggestions, and convert lines to linked notes with frontmatter.",
     "repo": "marten-ti/obsidian-tagline"
+  },
+  {
+    "id": "live-data-hub",
+    "name": "Live Data Hub",
+    "author": "Sandro Ballarini",
+    "description": "Display live MQTT and REST API data directly in your notes.",
+    "repo": "chefrocker/obsidian-awesome-livedata-plugin"
   }
 ]
